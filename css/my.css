@@ -1,0 +1,27 @@
+ body{
+	margin: 0px;
+}
+
+nav{
+	font-family: Roboto;
+}
+
+#warna-text{
+	background-color: black;
+}
+
+.parallax{
+	height: 100% !important;
+
+}
+
+
+#tulisan{
+	font-size: 25px !important; 
+	padding-left: 25px !important;
+	padding-bottom: 50px !important;
+}
+
+#judul{
+	font-size: 20px !important;
+}
