@@ -2,11 +2,11 @@
 
 Sarana Prasarana 13 Berbasis WEB 
 
-Pertama Kali Ngebackendin manual
+Pertama Kali Ngebackendin pake Native
 
-Project lama dan bareng bareng sayang di buang
+Project lama dan bareng bareng, sayang di buang
 
-Menggunakan Manual PHP
+Menggunakan PHP Native
 
 Jika Error Berarti Database belum dimasukan
 
